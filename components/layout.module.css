@@ -1,0 +1,20 @@
+.container {
+  max-width: 500px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.header {
+  text-align: center;
+  margin-bottom: 15px;
+}
+
+.profileImage {
+  border-radius: 50%;
+}
+
+.headerName {
+  font-size: 20px;
+  font-weight: bold;
+  margin: 5px 0 15px;
+}
