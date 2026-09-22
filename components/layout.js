@@ -22,8 +22,8 @@ export default function Layout({ children, home }) {
           priority
           src="/profile1.jpg"
           className={styles.profileImage}
-          height={60}
-          width={60}
+          height={120}
+          width={120}
           alt="Profile picture"
         />
 
